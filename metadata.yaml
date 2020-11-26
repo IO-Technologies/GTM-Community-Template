@@ -1,0 +1,5 @@
+homepage: "https://iotechnologies.com"
+documentation: "https://help.iotechnologies.com/en/articles/4667395-how-to-add-gtm-template-in-workspace"
+versions:
+  - sha: 5b86206357a89a09afcb04b65e6298165de0fe4a
+    changeNotes: First version
